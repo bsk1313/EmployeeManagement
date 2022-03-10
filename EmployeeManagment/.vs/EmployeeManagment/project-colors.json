@@ -1,0 +1,16 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "ad9d1a0c-3277-4406-ab8b-ccdbff9827e3": {
+      "ProjectGuid": "ad9d1a0c-3277-4406-ab8b-ccdbff9827e3",
+      "DisplayName": "EmployeeManagment",
+      "ColorIndex": 0
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Miscellaneous Files",
+      "ColorIndex": -1
+    }
+  },
+  "NextColorIndex": 1
+}
